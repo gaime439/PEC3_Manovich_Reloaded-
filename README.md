@@ -1,14 +1,16 @@
 # PEC3: Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación
 
-Autor: Jaime Pardo Valdés
+Autor: Jaime Pardo Valdés<br>
 Fecha: 25/05/2023
 
 <h2><b>Introducción</b></h2>
-!(https://github.com/gaime439/PEC3_Manovich_Reloaded-/blob/main/fondo-humano-apreton-manos-robot-era-digital-futurista.jpg?raw=true)
+<img src="https://github.com/gaime439/PEC3_Manovich_Reloaded-/blob/main/fondo-humano-apreton-manos-robot-era-digital-futurista.jpg?raw=true" >
+
+
 En el libro "El software toma el mando" de Lev Manovich, este explora cómo el software ha moldeado y transformado la cultura contemporánea. Dentro de este contexto, la hibridación juega un papel fundamental en la evolución de las tecnologías digitales. En este ensayo, quiero analizar el caso del software Unreal Engine, una poderosa herramienta utilizada para crear entornos virtuales y experiencias interactivas, y analizaré cómo ejemplifica los principios de hibridación descritos por Manovich. Y de la app Monumai, una aplicación que combina la identificación de estilos arquitectónicos y una plataforma de red social colaborativa. Analizaré cómo Monumai ejemplifica los principios de hibridación presentados por Manovich.
 
 <h2><b>Re-descubriendo la hibridacion:  Unreal Engine, la convergencia de la creación virtual y la narrativa interactiva</b></h2>
-
+<img src="https://github.com/gaime439/PEC3_Manovich_Reloaded-/blob/main/tecnologia-realidad-virtual-generativa-ai.jpg?raw=true" >
 El software Unreal Engine representa una forma de hibridación en la que convergen diferentes disciplinas, como el diseño gráfico, la animación, la programación y la narrativa, para crear un entorno virtual interactivo. Manovich señala que el software es más que una simple herramienta, es un medio que define nuestra experiencia cultural y nuestra relación con el mundo. Unreal Engine encarna esta noción al ofrecer un conjunto de herramientas que permiten a los creadores diseñar y desarrollar mundos virtuales inmersivos.
 En primer lugar, Unreal Engine combina elementos de diseño gráfico y visualización en 3D. Permite la creación de paisajes y objetos tridimensionales detallados, utilizando técnicas de modelado y renderizado avanzadas. Esto genera un espacio virtual en el que los usuarios pueden sumergirse y explorar, lo que a su vez permite la narrativa interactiva.
 La narrativa interactiva es otro aspecto central de Unreal Engine. Manovich destaca cómo el software nos permite no solo consumir contenido, sino también participar activamente en su creación. Unreal Engine proporciona herramientas para diseñar historias y experiencias interactivas, donde los usuarios pueden tomar decisiones y afectar el curso de la narrativa. La hibridación se manifiesta en la fusión de los elementos narrativos tradicionales con la interactividad y el control del usuario, creando así una experiencia única.
@@ -16,7 +18,7 @@ Además, Unreal Engine facilita la programación y el scripting, lo que permite 
 El caso del software Unreal Engine nos muestra cómo la hibridación impulsa la evolución de las tecnologías digitales y su impacto en la cultura. A través de la combinación de diseño gráfico, narrativa interactiva y programación, Unreal Engine ofrece un entorno de creación versátil y dinámico. Siguiendo los principios de Manovich en "El software toma el mando", podemos apreciar cómo la hibridación en Unreal Engine reconfigura nuestra relación con la realidad virtual y nos brinda nuevas formas de experimentar, interactuar y narrar historias en el entorno digital.
 
 <h2><b>Re-descubriendo la hibridacion:  app Monumai: La convergencia de la identificación arquitectónica y la colaboración en una experiencia de inteligencia artificial y red social.</b></h2>
-
+<img src="https://github.com/gaime439/PEC3_Manovich_Reloaded-/blob/main/concept_01.jpg?raw=true" >
 La app Monumai es un claro ejemplo de hibridación, ya que fusiona dos aspectos aparentemente diferentes, aunando patrimonio, matemáticas e inteligencia artificial, con las redes sociales . Manovich señala que el software es un medio que no solo crea sino que también define nuestras interacciones culturales y nuestras formas de comprensión del mundo. Monumai personifica esta idea al combinar la identificación arquitectónica y la colaboración social en una experiencia digital única.
 En primer lugar, Monumai utiliza la inteligencia artificial para permitir a los usuarios identificar estilos arquitectónicos al interactuar con el entorno físico. La app utiliza tecnología de reconocimiento visual para reconocer edificios y estructuras, y luego proporciona información en tiempo real sobre su estilo arquitectónico, historia y características. Esta convergencia de inteligencia artificial y arquitectura promueve una experiencia inmersiva en la que los usuarios pueden explorar y comprender mejor el entorno construido que les rodea.
 La hibridación en Monumai se amplifica aún más a través de su componente de red social colaborativa. Los usuarios pueden compartir sus descubrimientos arquitectónicos, interactuar con otros entusiastas de la arquitectura y participar en proyectos colaborativos. Esta dimensión social transforma la experiencia individual de identificación arquitectónica en un proceso compartido y enriquecedor. Además, los usuarios pueden contribuir con sus propias perspectivas y conocimientos, creando así una comunidad dinámica de aprendizaje y apreciación arquitectónica.
