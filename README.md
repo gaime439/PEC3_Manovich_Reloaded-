@@ -25,3 +25,9 @@ La hibridación en Monumai se amplifica aún más a través de su componente de 
 Otro aspecto destacado de la hibridación en Monumai es la capacidad de personalización y adaptación de la app. Los usuarios pueden personalizar su perfil, seguir a otros usuarios y recibir recomendaciones personalizadas en función de sus intereses arquitectónicos. Esto refleja el principio de Manovich de que el software no es estático, sino que evoluciona y se transforma según las necesidades y preferencias de los usuarios. Monumai se adapta a las preferencias individuales y fomenta la participación activa de los usuarios en la creación y evolución de la comunidad.
 La app Monumai es un ejemplo fascinante de hibridación en el ámbito de la inteligencia artificial y las redes sociales colaborativas. Al combinar la identificación arquitectónica y la experiencia social, Monumai redefine nuestra relación con la arquitectura y la forma en que nos relacionamos con el entorno construido. Siguiendo los principios de Manovich en "El software toma el mando", podemos apreciar cómo la hibridación en Monumai nos brinda nuevas formas de explorar, aprender y colaborar en el campo de la arquitectura, utilizando tecnologías digitales y una comunidad en línea.
 
+Referencias y Bibliografía
+Imágenes extraídas de www.freepik.es
+Manovich, Lev. (2013). El Software toma el mando. Barcelona: Editorial UOC.
+https://monumai.ugr.es/
+https://www.ut-hub.com/la-evolucion-de-unreal-engine-en-el-mundo-de-los-videojuegos/
+https://www.xataka.com/tag/unreal-engine-5
