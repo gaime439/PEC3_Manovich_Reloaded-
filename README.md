@@ -4,7 +4,7 @@ Autor: Jaime Pardo Valdés
 Fecha: 25/05/2023
 
 <h2><b>Introducción</b></h2>
-!(
+!(https://github.com/gaime439/PEC3_Manovich_Reloaded-/blob/main/fondo-humano-apreton-manos-robot-era-digital-futurista.jpg?raw=true)
 En el libro "El software toma el mando" de Lev Manovich, este explora cómo el software ha moldeado y transformado la cultura contemporánea. Dentro de este contexto, la hibridación juega un papel fundamental en la evolución de las tecnologías digitales. En este ensayo, quiero analizar el caso del software Unreal Engine, una poderosa herramienta utilizada para crear entornos virtuales y experiencias interactivas, y analizaré cómo ejemplifica los principios de hibridación descritos por Manovich. Y de la app Monumai, una aplicación que combina la identificación de estilos arquitectónicos y una plataforma de red social colaborativa. Analizaré cómo Monumai ejemplifica los principios de hibridación presentados por Manovich.
 
 <h2><b>Re-descubriendo la hibridacion:  Unreal Engine, la convergencia de la creación virtual y la narrativa interactiva</b></h2>
